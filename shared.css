@@ -10,6 +10,15 @@ html {
   height: 100%;
 }
 
+::-webkit-scrollbar{
+  color: #FFD369;
+  background-color: rgb(170, 180, 182);
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: rgb(17, 48, 87);
+  border-radius: 20px;
+}
 body {
   font-family: "Montserrat", sans-serif;
   margin: 0;
