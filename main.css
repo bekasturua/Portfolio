@@ -28,8 +28,15 @@
 }
 
 .section-title {
-  color: #2ddf5c;
+  font-size: 40px !important;
   text-align: center;
+}
+
+#plans h1 {
+  color: rgb(8, 18, 125);
+  font-size: 24px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .plan {
@@ -174,6 +181,10 @@
   background: #18588b;
   margin-top: 5rem;
   padding: 1rem;
+}
+
+#key-features h1 {
+  font-size: 40px;
 }
 
 #key-features .section-title {
