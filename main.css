@@ -33,7 +33,7 @@
 }
 
 .plan {
-  background: #d5ffdc;
+  background: #a1a6a7;
   text-align: center;
   padding: 1rem;
   margin: 0.5rem 0;
@@ -46,32 +46,32 @@
 }
 
 .plan--highlighted {
-  background: #2664c1;
+  background: #2cb035;
   color: white;
 }
 
 .plan--highlighted1 {
-  background: #26acc1;
+  background: #12c024;
   color: white;
 }
 
 .plan--highlighted2 {
-  background: #c1269d;
+  background: #970a76;
   color: white;
 }
 
 .plan--highlighted3 {
-  background: #c14f26;
+  background: #b45c09;
   color: white;
 }
 
 .plan--highlighted4 {
-  background: #2664c1;
+  background: #0e3e86;
   color: white;
 }
 
 .plan--highlighted5 {
-  background: #b2c126;
+  background: #cee30b;
   color: white;
 }
 
@@ -93,7 +93,7 @@
 }
 
 .plan__price {
-  color: #858585;
+  color: black;
 }
 
 .plan--highlighted .plan__title {
