@@ -13,6 +13,7 @@
     margin-top: 50px;
 }
 
+
 .main_home p {
     font-size: 34px;
 }
@@ -92,6 +93,7 @@ main {
 }
 
 #free {
+    margin: 50px;
     background: rgba(234, 252, 237, 0.95);
     float: right;
     border-right: none;
