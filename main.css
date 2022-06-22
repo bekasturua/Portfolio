@@ -90,6 +90,11 @@
   color: white;
 }
 
+.plan--highlighted8 {
+  background: #349f6f;
+  color: white;
+}
+
 .plan__annotation {
   background: white;
   color: #19b84c;
@@ -179,6 +184,11 @@
     z-index: 50;
   }
   .plan--highlighted7 {
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+    height: 30rem;
+    z-index: 50;
+  }
+  .plan--highlighted8 {
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
     height: 30rem;
     z-index: 50;
