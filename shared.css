@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,400,900');
-@import url('https://fonts.googleapis.com/css?family=Anton');
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,400,900");
+@import url("https://fonts.googleapis.com/css?family=Anton");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
 
 * {
   box-sizing: border-box;
@@ -10,12 +10,12 @@ html {
   height: 100%;
 }
 
-::-webkit-scrollbar{
-  color: #FFD369;
+::-webkit-scrollbar {
+  color: #ffd369;
   background-color: rgb(170, 180, 182);
 }
 
-::-webkit-scrollbar-thumb{
+::-webkit-scrollbar-thumb {
   background-color: rgb(17, 48, 87);
   border-radius: 20px;
 }
@@ -24,9 +24,10 @@ body {
   margin: 0;
   display: grid;
   grid-template-rows: 3.5rem auto fit-content(8rem);
-  grid-template-areas: "header"
-                       "main"
-                       "footer";
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
   height: 100%;
   overflow-x: hidden;
 }
@@ -252,12 +253,12 @@ main {
   border: #a1a1a1;
   background: #ccc;
   color: #a1a1a1;
-} 
+}
 
 .open {
-    display: block !important;
-    opacity: 1 !important;
-    transform: translateY(0) !important;
+  display: block !important;
+  opacity: 1 !important;
+  transform: translateY(0) !important;
 }
 
 @media (min-width: 40rem) {
