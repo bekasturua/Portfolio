@@ -110,6 +110,9 @@
 .plan__price {
   color: black;
 }
+.plan__stage {
+  color: rgb(49, 22, 131);
+}
 
 .plan--highlighted .plan__title {
   color: white;
