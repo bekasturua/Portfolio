@@ -283,3 +283,17 @@ main {
     transform: rotateZ(10deg);
   }
 }
+
+/* .more_projects {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.more_projects button {
+  cursor: pointer;
+  font-size: 24px;
+  background-color: blue;
+  color: white;
+  border-radius: 50px;
+} */
